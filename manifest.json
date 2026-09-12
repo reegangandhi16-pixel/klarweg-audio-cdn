@@ -37610,5 +37610,17 @@
   "unter diesen Voraussetzungen": {
     "male": "audio/male/unter_diesen_Voraussetzungen.mp3",
     "female": "audio/female/unter_diesen_Voraussetzungen.mp3"
+  },
+  "warst": {
+    "female": "audio/female/warst.mp3",
+    "male": "audio/male/warst.mp3"
+  },
+  "waren": {
+    "female": "audio/female/waren.mp3",
+    "male": "audio/male/waren.mp3"
+  },
+  "Nebenkosten": {
+    "female": "audio/female/Nebenkosten.mp3",
+    "male": "audio/male/Nebenkosten.mp3"
   }
 }
